@@ -9,6 +9,7 @@ https://swinji.azurewebsites.net
 
 Cucumber (built on Selenium Webdriver, TestNG)
 Cucumber Report
+
 🏗️ Project Design:
 
 Page Object Model (POM) design pattern
@@ -16,10 +17,12 @@ Data-Driven framework using properties file
 Fluent design approach
 Selenuim Java
 step_definintion,Pages, Runner, and Hooks
+
 📄 Reports:
 
 [cucmber Report]
 TestNG Report
+
 🔍️ Covered Test Cases:
 
 ✅ Test Case 1: Scenario: user should be able to create a course on Winjigo website

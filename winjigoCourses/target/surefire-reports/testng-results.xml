@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Runner.testRunner" duration-ms="24644" started-at="2024-03-09T16:37:39Z" finished-at="2024-03-09T16:38:04Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.testRunner@1d082e88]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Command line test" duration-ms="24644" started-at="2024-03-09T16:37:39Z" finished-at="2024-03-09T16:38:04Z">
+      <class name="Runner.testRunner">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:Runner.testRunner@1d082e88]" name="setUpClass" is-config="true" duration-ms="361" started-at="2024-03-09T16:37:39Z" finished-at="2024-03-09T16:37:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@19f7222e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.testRunner@1d082e88]" name="runScenario" duration-ms="24141" started-at="2024-03-09T16:37:39Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-09T16:38:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["user should be able to create a course on Winjigo website"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["courseCreation | Create a Course at Winjigo website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:Runner.testRunner@1d082e88]" name="tearDownClass" is-config="true" duration-ms="60" started-at="2024-03-09T16:38:04Z" finished-at="2024-03-09T16:38:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- Runner.testRunner -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Runner.testRunner -->
+</testng-results>

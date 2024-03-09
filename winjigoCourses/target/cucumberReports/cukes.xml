@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="24.262" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="courseCreation | Create a Course at Winjigo website" name="user should be able to create a course on Winjigo website" time="24.07">
+<system-out><![CDATA[
+Given user navigate to home page............................................passed
+When user open courses page from left side navigation bar...................passed
+And user click on create course button and fill mandatory data..............passed
+Then user back to courses list page and assert that course title is displayed.passed
+]]></system-out>
+</testcase>
+</testsuite>

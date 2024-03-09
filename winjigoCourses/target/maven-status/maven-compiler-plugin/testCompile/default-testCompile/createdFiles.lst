@@ -1,0 +1,6 @@
+driverActions\driverActions.class
+Pages\coursePage.class
+steps_definition\SC1_stepsDefinition.class
+Runner\testRunner.class
+Pages\loginPage.class
+steps_definition\Hooks.class

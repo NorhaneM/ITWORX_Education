@@ -38,24 +38,40 @@ TestNG Report
   
   user click on create course button and fill mandatory data
   
-  user back to courses list page and assert that course title is displayed
- ===================================================================================================================
+ user back to courses list page and assert that course title is displayed
+
+ =========================================================
+ 
 ✨✨✨2- Manual Test cases ✨✨✨
 
 Student enrollment requires two actions:
+
 1)	Search for a school
-2)	Fill in student’s information
- ===================================================================================================================
+   
+3)	Fill in student’s information
+   
+  =========================================================
+
 ✨✨✨ 3-Code Assessment ✨✨✨
+
 1-write best practice code for ATM
+
 2- rewrite the code and solve the error
- ===================================================================================================================
+
+  =========================================================
+ 
 ✨✨✨ 4-API Manual Testing ✨✨✨
+
    write at least 3 detailed test cases to verify the correctness of the API response
+   
 ===================================================================================================================
+
   ✨✨✨ 4-API Automation Testing ✨✨✨
+  
 automation task to call the API and verify its response code and response schema using rest assured, cucumber and java.
+
 🌐 Website URL: boredapi
+
 https://www.boredapi.com/api/activity 
 
 📝 Main Frameworks:
@@ -74,7 +90,9 @@ step_definintion,Pages, Runner
 📄 Reports:
 
 [cucmber Report]
+
 TestNG Report
+
 ===================================================================================================================
  ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
  

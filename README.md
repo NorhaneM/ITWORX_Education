@@ -27,7 +27,12 @@ TestNG Report
 
 ✅ Test Case 1: Scenario: user should be able to create a course on Winjigo website
 
+
   user navigate to home page
+  
   user open courses page from left side navigation bar
+  
   user click on create course button and fill mandatory data
+  
   user back to courses list page and assert that course title is displayed
+  
